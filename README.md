@@ -13,3 +13,7 @@ Step 3: Relate the search traffic to stock price patterns
 Step 4: Create a time series model with Prophet
 
 The following subsections detail these steps.
+
+See code file for step-by-step details
+
+I relied on ChatGPT to help when needed, however, I find that tool very unrelyable.
